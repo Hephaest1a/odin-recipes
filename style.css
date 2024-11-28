@@ -1,0 +1,15 @@
+/* Style.css */
+body {
+    background-color: rgb(250, 207, 214);
+}
+
+body h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+body ul {
+    list-style-image: linear-gradient(to right bottom, purple, rgb(231, 227, 229));
+    font-size: 18px;
+}
